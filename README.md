@@ -1,5 +1,10 @@
 # TheFallenAngel
-----------------
-The gods of Minecraft have decided to banish you from the heavens. But they want you to have a chance to redeem yourself.
-This way was one small island that you needed to develop from scratch.
-When they see that you can come back, they'll let you open the aether portal.
+
+## The Story Behind The Fallen Angel
+
+The gods of Minecraft have decided to **banish you from heaven**.
+But, they want you to try to redeem yourself, so they gifted you one small island,
+just for you to survive on and improve.
+And when you'll be worthy, you can go back to the heavens.
+
+This modpack have over 150 mods
